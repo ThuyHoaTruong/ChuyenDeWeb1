@@ -1,1 +1,1 @@
-Đây là file week1.txt của branch: week1
+Đây là file week1.txt của branch: main
